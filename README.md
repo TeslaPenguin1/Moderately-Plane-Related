@@ -26,6 +26,7 @@ Most if not all existing content in the mod will likely recieve updates fixing b
  * SuicidalInsanity
  * Timmy
  * Stardust
+ * TeslaPenguin1
 
 ## License:
 
